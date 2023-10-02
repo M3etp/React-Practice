@@ -2,4 +2,9 @@ REACT => main two parts
  1. React-dom => Web developement
  2. React-native => Mobile application developement
 
- 
+ In vite react we have to name the file with .jsx extension and also we have to make first word of file capitalize like Meet.jsx
+
+ also while making a function in the Meet.jsx we have to name our function first word capital and then we have to export default that function.
+in that function we have to return an html element.
+
+we have to import that element in another file and then we have to use only one element in that file.
